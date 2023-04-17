@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Main {
@@ -10,4 +11,18 @@ public class Main {
         System.out.print("int");
         sc.close();
     }
+=======
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        for (int i=1;i<=a/4;i++){
+           System.out.print("long ");
+        }
+        System.out.print("int");
+        sc.close();
+    }
+>>>>>>> 89e234fdc21b91ab39dfd56782b22eba225b157f
 }
