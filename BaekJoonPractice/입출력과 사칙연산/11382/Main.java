@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Main {
@@ -10,17 +9,4 @@ public class Main {
         System.out.println(A+B+C);
         sc.close();
     }
-=======
-import java.util.Scanner;
-
-public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        long A = sc.nextLong();
-        long B = sc.nextLong();
-        long C = sc.nextLong();
-        System.out.println(A+B+C);
-        sc.close();
-    }
->>>>>>> 89e234fdc21b91ab39dfd56782b22eba225b157f
 }
