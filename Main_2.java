@@ -1,6 +1,6 @@
 import java.util.Objects;
 import java.util.Scanner;
-public class Main { // 2022년 시도상업경진대회 비지니스 프로그래밍 2번 문제
+public class Main_2 { // 2022년 시도상업경진대회 비지니스 프로그래밍 2번 문제
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
