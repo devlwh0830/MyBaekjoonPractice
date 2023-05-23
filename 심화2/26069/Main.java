@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // 첫번째 풀이
         Scanner sc = new Scanner(System.in);
         HashSet<String> hashSet = new HashSet<String>();
         hashSet.add("ChongChong");
